@@ -14,26 +14,8 @@ We therefore set out to quantitatively assess how variation in the fluorescence 
 
 Our work builds on the existing guidelines for good unmixing controls, while providing mechanistic explanations for each. We also highlight advantages of profiling control signatures before performing unmixing as a means to mitigate unmixing issues.
 
-# Slides
-
-This is the repository for the slides from my Cyto 2025 "Single-colors" talk, one of those selected as nominees for the exceptional student award.  
-
-Click [here](/DavidRach_CYTO2025.pdf) to navigate to a .pdf of the slides, which is downloadable
-
-For our Cytometry in R course, click [here](https://umgcccfcsr.github.io/CytometryInR/course/). 
-
-For the InstrumentQC dashboard how-to website, click [here](https://davidrach.github.io/InstrumentQC_Install/)
-
-Click [here](https://github.com/DavidRach/Luciernaga) for information about the Luciernaga R package. 
-
-For information about our Coereba R package, click [here](https://github.com/DavidRach/Coereba)
-
-
-# GitHub Repository organization. 
-
-Within this GitHub repository due to size limits, we are unable to provide the .svg files that were used to create the poster in [Inkscape](https://inkscape.org/), feel free to reach out to the UMGCCC Flow Cytometry Shared Resource email ("flowcore", "@", "som.umaryland.edu") to get a sharable copy. 
-
-The code to generate QR codes and extract survey comments in R can be found under the code_poster folder. Actual QR codes generated can be found under outputs folder. Images used that were brought in from other sources can be found in the images folder. 
+[Code](https://github.com/DavidRach/SingleColorsTalk_Cyto2025) 
+[Slides](https://davidrach.github.io/SingleColorsTalk_Cyto2025/DavidRach_CYTO2025.pdf)  
 
 # License
 
