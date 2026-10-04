@@ -15,7 +15,7 @@ We therefore set out to quantitatively assess how variation in the fluorescence 
 Our work builds on the existing guidelines for good unmixing controls, while providing mechanistic explanations for each. We also highlight advantages of profiling control signatures before performing unmixing as a means to mitigate unmixing issues.
 
 [Code](https://github.com/DavidRach/SingleColorsTalk_Cyto2025) 
-[Slides](https://davidrach.github.io/SingleColorsTalk_Cyto2025/DavidRach_CYTO2025.pdf)  
+[Slides](/DavidRach_CYTO2025.pdf)  
 
 # License
 
